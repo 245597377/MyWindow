@@ -1,0 +1,10 @@
+F:\Projects\MyWindow\MyWindow\MyWindow\bin\Debug\MyWindow.exe
+F:\Projects\MyWindow\MyWindow\MyWindow\bin\Debug\MyWindow.pdb
+F:\Projects\MyWindow\MyWindow\MyWindow\bin\Debug\MyDll.dll
+F:\Projects\MyWindow\MyWindow\MyWindow\bin\Debug\MyDll.pdb
+F:\Projects\MyWindow\MyWindow\MyWindow\obj\x86\Debug\MyWindow.csprojResolveAssemblyReference.cache
+F:\Projects\MyWindow\MyWindow\MyWindow\obj\x86\Debug\MyWindow.Form1.resources
+F:\Projects\MyWindow\MyWindow\MyWindow\obj\x86\Debug\MyWindow.Properties.Resources.resources
+F:\Projects\MyWindow\MyWindow\MyWindow\obj\x86\Debug\MyWindow.csproj.GenerateResource.Cache
+F:\Projects\MyWindow\MyWindow\MyWindow\obj\x86\Debug\MyWindow.exe
+F:\Projects\MyWindow\MyWindow\MyWindow\obj\x86\Debug\MyWindow.pdb
